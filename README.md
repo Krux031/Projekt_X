@@ -1,2 +1,1 @@
-# Projekt_X
- 
+Projekt napravljen u svrhu polaganja kolegija.
